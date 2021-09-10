@@ -1,0 +1,14 @@
+# octavi_RMX1801-userdebug 11 RQ3A.210805.001.A1 0d32ce79be release-keys
+- manufacturer: 
+- platform: sdm660
+- codename: RMX1801
+- flavor: octavi_RMX1801-userdebug
+- release: 11
+- id: RQ3A.210805.001.A1
+- incremental: 0d32ce79be
+- tags: release-keys
+- fingerprint: oppo/octavi_RMX1801/RMX1801:11/RQ3A.210805.001.A1/0d32ce79be:userdebug/release-keys
+- is_ab: false
+- brand: oppo
+- branch: octavi_RMX1801-userdebug-11-RQ3A.210805.001.A1-0d32ce79be-release-keys
+- repo: oppo_rmx1801_dump
