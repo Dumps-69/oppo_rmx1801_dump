@@ -1,0 +1,6 @@
+<permissions>
+    <!-- zhangweijie@Plf.Framework, 2017/02/16, add for child space -->
+    <feature name="oppo.childspace.support" />
+    <!-- gaoliang@Plf.LauncherCenter, 2017/03/14, add for launcher show the progress of downloading app from gamecenter and app store-->
+    <feature name="oppo.launcher.download.progress.support" />
+</permissions>

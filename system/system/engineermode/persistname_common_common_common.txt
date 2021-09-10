@@ -1,0 +1,2 @@
+com.coloros.onekeylockscreen
+com.coloros.screenrecorder
